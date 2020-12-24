@@ -36,7 +36,6 @@ Run monitorBright.exe any number of times according to the dimness you need.
 - Now you can press whatever hotkeys you have set up to decrease or increase your brightness!
 <br><br>
 <p align="center">
-  <a href="https://github.com/bBSempai">bBSempai</a><br>
   <a href="http://www.twitter.com/bB_Sempai">
     <img src="https://i.imgur.com/Ko37Ix0.png"/>
   </a>
