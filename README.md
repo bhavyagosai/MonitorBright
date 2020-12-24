@@ -26,9 +26,11 @@ http://www.jockersoft.com
 
 Run monitorBright.exe any number of times according to the dimness you need.
 
-### For Hotkeys:
+### For setting up Hotkeys:
 
 - Install [AHK (AutoHotKey)](https://www.autohotkey.com/)
-- Set up the .ahk file
-- Put your .ahk file in the [Startup Folder](https://support.microsoft.com/en-us/windows/add-an-app-to-run-automatically-at-startup-in-windows-10-150da165-dcd9-7230-517b-cf3c295d89dd) to autostart your scripts every time you boot up your system.
+- Download files from the [Releases page](https://github.com/bBSempai/MonitorBright/releases/tag/v1.0)
+- Ensure your monitorBright.exe , .manifest & .config are in the same directory.
+- Set up the .ahk files. For help, check this [Hotkey GuideList](https://www.autohotkey.com/docs/KeyList.htm)
+- Put your .ahk files in the [Startup Folder](https://support.microsoft.com/en-us/windows/add-an-app-to-run-automatically-at-startup-in-windows-10-150da165-dcd9-7230-517b-cf3c295d89dd) to autostart your scripts every time you boot up your system.
 - Now you can press whatever hotkeys you have set up to decrease or increase your brightness!
