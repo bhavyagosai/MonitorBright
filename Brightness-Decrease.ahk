@@ -6,6 +6,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ; ^ = CTRL
 ; + = SHIFT
+; For more check https://www.autohotkey.com/docs/KeyList.htm
+
 ; set up any hotkey you want (Default is CTRL SHIFT b)
 
 ^+b::
