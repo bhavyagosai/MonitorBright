@@ -1,4 +1,4 @@
-<h1 align = "center">MonitorBright</h1>
+<h1 align = "center">MonitorBright 💻🌙</h1>
 
 <p align="center">
 Monitor brightness reducer for more comfortable use in the dark
